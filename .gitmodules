@@ -1,0 +1,9 @@
+[submodule "Chat/JSONKit"]
+	path = Chat/JSONKit
+	url = https://github.com/johnezang/JSONKit.git
+[submodule "Chat/fpotter-socketio-cocoa"]
+	path = Chat/fpotter-socketio-cocoa
+	url = https://github.com/fpotter/socketio-cocoa.git
+[submodule "Chat/RTLabel"]
+	path = Chat/RTLabel
+	url = git@github.com:honcheng/RTLabel.git
