@@ -10,7 +10,7 @@ This is a simple iOS chat client for socket.io & node.js backend.
 #### Rich text formatting in the is based on RTLabel
 * [RTLabel](https://github.com/honcheng/RTLabel)
 
-#### The code for the chatroom backend is provided by alvinSJ
+#### The code for the chatroom backend is provided by [alvinSJ](http://github.com/alvinsj)
 * [nodechat](https://github.com/alvinsj/nodechat)
 
 About the app
